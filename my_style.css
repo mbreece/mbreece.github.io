@@ -1,0 +1,11 @@
+body {
+  background-color: #8A2BE2;
+}
+#column_one {
+  float: left;
+  width: 40%;
+  padding: 5%;
+}
+#column_three {
+  padding: 10%;
+}
